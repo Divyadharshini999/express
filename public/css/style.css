@@ -1,3 +1,22 @@
 .container{
-    background-color: pink;
+    background-color: rgb(195, 228, 236);
+padding: 50px;
+width: 200px;
+margin-left: 500px;
+margin-top: 50px;
+}
+.heading{
+    
+    background-color: rgb(130, 130, 202);
+    margin: 0px;
+    padding: 20px;
+    text-align: center;
+    
+}
+.addbutton{
+    background-color: rgb(130, 130, 202);
+    border-radius: 10px;
+    color: white;
+    width: 90px;
+    height: 30px;
 }
